@@ -3,7 +3,7 @@ Explains the roles and responsibilities of the committees for the KCD Costa Rica
 
 Each committee will have a Lead (i.e. point person), and at least one other member on the committee.
 
-VOLUNTEER COMMITTEE
+## VOLUNTEER COMMITTEE
 This committee will be in charge of volunteers for the event. This includes recruiting for areas as needed, coordinating with volunteers on tasks, roles, and responsibilities, and being the point of contact(s) during the event.
 
 Moderator: TBD
