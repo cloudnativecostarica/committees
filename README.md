@@ -8,6 +8,8 @@ This committee will be in charge of volunteers for the event. This includes recr
 
 Moderator: TBD
 
+[Details](https://github.com/cloudnativecostarica/committees/blob/main/volunteer-committee.md)
+
 ## SESSION COMMITTEE
 This committee will be in charge of speaker selection and communication. This includes talk selection, and all speaker communications.
 
@@ -20,13 +22,14 @@ Moderator: @falconcr
 This committee will be in charge of marketing for KCD Costa Rica 2025. This includes logo design for the event and swag, external communcations (social media leading up to, during, and after the event), email lists, promotional and advertising communications (as necessary), and coordinating with logistics on badges. Includes getting swag for attendees, speakers, and organizers/volunteers. Also, getting badges, lanyards, t-shirts, and gifts for speakers/organizers/volunteers.
 
 Moderator: TBD
+
 [Details](https://github.com/cloudnativecostarica/committees/blob/main/maketing-committee.md)
 
 
 ## VENUE COMMITTEE
 This committee will be in charge of everything venue-related. This includes procuring microphones, speakers, lecturn, projector as required. Communicating with the venue to coordinate food and catering (additional tables, etc.), and stage management / AV. This committee will also be in charge of the happy hour venue, which must take place at a separate venue.
 
-Moderator: 
+Moderator: Miguel Arturo
 
 
 ## SPONSOR COMMITTEE
