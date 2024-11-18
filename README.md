@@ -37,4 +37,6 @@ This committee will be in charge of sponsors for KCD Costa Rica 2025. This inclu
 
 Moderator: TBD
 
+[Details](https://github.com/cloudnativecostarica/committees/blob/main/sponsor-committee.md)
+
 
