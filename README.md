@@ -35,7 +35,7 @@ Moderator: Miguel Arturo
 ## SPONSOR COMMITTEE
 This committee will be in charge of sponsors for KCD Costa Rica 2025. This includes soliciting and communication with sponsors. Structuring of sponsor packages (benefits and price), guiding/educating sponsors on how best to structure and engage with the event while sponsoring.
 
-Moderator: TBD
+Moderator: Luis Salas
 
 [Details](https://github.com/cloudnativecostarica/committees/blob/main/sponsor-committee.md)
 
