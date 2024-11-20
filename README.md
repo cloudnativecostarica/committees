@@ -6,7 +6,7 @@ Each committee will have a Lead (i.e. point person), and at least one other memb
 ## VOLUNTEER COMMITTEE
 This committee will be in charge of volunteers for the event. This includes recruiting for areas as needed, coordinating with volunteers on tasks, roles, and responsibilities, and being the point of contact(s) during the event.
 
-Moderator: TBD
+Moderator: @mir23cr
 
 [Details](https://github.com/cloudnativecostarica/committees/blob/main/volunteer-committee.md)
 
@@ -21,7 +21,7 @@ Moderator: @falconcr
 ## MARKETING COMMITTEE
 This committee will be in charge of marketing for KCD Costa Rica 2025. This includes logo design for the event and swag, external communcations (social media leading up to, during, and after the event), email lists, promotional and advertising communications (as necessary), and coordinating with logistics on badges. Includes getting swag for attendees, speakers, and organizers/volunteers. Also, getting badges, lanyards, t-shirts, and gifts for speakers/organizers/volunteers.
 
-Moderator: TBD
+Moderator: Cristher Castro
 
 [Details](https://github.com/cloudnativecostarica/committees/blob/main/maketing-committee.md)
 
